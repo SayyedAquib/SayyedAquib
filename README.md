@@ -72,16 +72,16 @@ const aquib = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayyedaquib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyedaquib&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayyedaquib&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyedaquib&langs_count=10&theme=tokyonight&layout=compact"/>
 </div>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedaquib&" alt="sayyedaquib" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedaquib&theme=tokyonight" alt="sayyedaquib" /></p>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayyedaquib&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sayyedaquib&theme=tokyonight&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -109,12 +109,4 @@ If you find my projects helpful or interesting, consider giving them a ⭐️ on
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From [SayyedAquib](https://github.com/SayyedAquib)</i>
-  <br>
-  <i>💙 Happy Coding!</i>
 </div>
